@@ -19,7 +19,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![ss](https://github.com/AbhishekTondarkar/CipherEn_Project/blob/89fa5ee4da4da843570127adce4d6aa58951e563/ss.png)
 
 This project is Landing Page for College Tech Club. As a internship project, this endeavor not only demonstrates our technical prownes but also serves as a testament to our ability to collaborate, problem-solve, and deliver a fully realized web application. 
 Fell free to tailor the content based on the specifics and technologies used.
@@ -56,4 +56,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: [images/screenshot.png](https://github.com/AbhishekTondarkar/CipherEn_Project/blob/89fa5ee4da4da843570127adce4d6aa58951e563/ss.png)https://github.com/AbhishekTondarkar/CipherEn_Project/blob/89fa5ee4da4da843570127adce4d6aa58951e563/ss.png
+
