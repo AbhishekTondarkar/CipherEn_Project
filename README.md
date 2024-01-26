@@ -50,7 +50,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - @abhi.tondarkar - tondarkarabhi7@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name]([https://github.com/your_username/repo_name](https://github.com/AbhishekTondarkar/CipherEn_Project))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
